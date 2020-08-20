@@ -1,0 +1,18 @@
+/* id === #idname 
+class === .classname */
+
+
+#title{
+    color: #7FFFD4;
+    font-size: 150px;
+}
+
+
+.text{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.subheader{
+    margin: 50px;
+}
