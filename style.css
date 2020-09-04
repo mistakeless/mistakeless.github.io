@@ -3,7 +3,7 @@ class === .classname */
 
 
 .all{
-    margin: 200px;
+    margin: 220px;
     background-color: #F5F5F5;
     color: #191970;
     font-family: 'Raleway', sans-serif;
@@ -19,6 +19,11 @@ class === .classname */
 
 .subheader{
     margin: 50px;
+}
+
+.break{
+    line-height: 0%;
+    margin-top: -0.8%;
 }
 
 
