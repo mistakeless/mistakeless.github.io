@@ -103,7 +103,33 @@ footer {
     background-color: #191970;
 }
 
+.sidebar {
+    position: fixed;
+    top: 70px;
+    left: -10px;
+    text-align: left;
+    line-height: 40px;
+    list-style: none;
+}
 
+
+/* offset for roles sidebar */
+
+/* .heading::before {
+    display: block;
+    content: "";
+    height: 50px;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.sub-heading::before {
+    display: block;
+    content: "";
+    height: 80px;
+    visibility: hidden;
+    pointer-events: none;
+} */
 
 
 
